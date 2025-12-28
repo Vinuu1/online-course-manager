@@ -56,7 +56,7 @@ o	Access at: http://localhost:8080/OnlineCourseManager
 5.	Create a Pull Request
 ________________________________________
 📜 License
-Licensed under the MIT License. See LICENSE for details.
+Licensed under the MIT License. See [LICENSE](https://github.com/Vinuu1/online-course-manager/blob/main/LICENSE) for details.
 ________________________________________
 👨‍💻 Author
 •	Vinuu1 (@Vinuu1)
