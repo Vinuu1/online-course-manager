@@ -1,5 +1,4 @@
-Perfect, Kaustubh 🙌 — let’s update the README with the correct author information. Here’s the final polished README.md with Vinuu1 as the author:
-________________________________________
+
 📚 Online Course Manager
 A web-based platform to manage courses, instructors, and students — built with JSP, Java, HTML, CSS, Apache Tomcat 8, and MySQL.
 ________________________________________
